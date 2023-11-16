@@ -1,0 +1,3 @@
+[submodule "themes/gallery"]
+	path = themes/gallery
+	url = https://github.com/zorikir/hugo-theme-gallery.git

@@ -1,4 +1,4 @@
 baseURL = 'https://zorikir.github.io/'
 languageCode = 'de-de'
 title = 'Studio von Zorica'
-theme = ["https://github.com/zorikir/hugo-theme-gallery"]
+theme = ["gallery"]
